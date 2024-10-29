@@ -2,6 +2,12 @@
 This repository contains an AI-powered Cooking Assistant chatbot, capable of generating recipes
 and assisting with cooking-related tasks.
 
+## You can try out the AI Mentor chatbot directly through this live app:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]( https://ai-cooking-assistant-chatbot.streamlit.app/)
+
+Click the link above to access the app.
+
 ## Steps to run the AI Cooking Assistant locally:
 
 1: **Set up API Key:**
